@@ -1,2 +1,2 @@
 # calculadora
-calculadora sencilla
+calculadora sencilla para sumar, restar, multiplicar y dividir números
